@@ -7,7 +7,7 @@
 
 ## INSTALLING
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XnKiT/XnKiT-UB)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sassy-os/XnKiT-UB)
 
 ## ❗️YOU ARE FOREWARNED❗️
 > We won't be responsible for any kind of ban due to this bot.
